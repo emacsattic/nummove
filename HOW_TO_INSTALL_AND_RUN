@@ -1,0 +1,16 @@
+***** Instructions for installing and running this game *****
+
+* System requirements
+	GNU Emacs with png-support
+* Install
+        If not existing, create ~/source (mkdir ~/source)
+        copy the nummove.tar.gz to this directory
+	untar/zip it (tar -xvvzf nummove.tar.gz)
+
+* Try it out :)
+	Start GNU Emacs
+	Press ALT + X and type "load-file"
+	Here you enter "~/source/nummove/nummove.el"
+ 	Again press ALT + X and type "nummove"
+	Happy playing :D
+
