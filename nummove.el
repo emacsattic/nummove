@@ -1,4 +1,5 @@
-;; NumMove - a simple number-move-game
+;;; NumMove --- A simple number-move-game
+
 ;; Copyright (C) 2007  Kristian Rumberg (kristianrumberg@gmail.com)
 
 ;; This program is free software; you can redistribute it and/or
